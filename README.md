@@ -3,13 +3,13 @@
 
 <img align="right" alt="coding" width="390" height="300" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
-- 🔭 I’m currently working on [Analysis on Electric Vehicles](https://github.com/WhatIfAditya7/Electric-Vehicles)
+- 🔭 I’m currently working on **Data Science projects primarily focused on Machine Learning topics.**
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **Data Bricks**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Engineering and Analysis**
 
 - 📫 How to reach me **adityaasharma7007@gmail.com**
 
