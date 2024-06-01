@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">A energetic and passionate Data Engineer and Analyst.</h3>
+<h3 align="center">A curious and passionate Data Engineer and Analyst.</h3>
 
 <img align="right" alt="coding" width="390" height="300" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
