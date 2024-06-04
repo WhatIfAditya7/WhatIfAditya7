@@ -1,3 +1,4 @@
+![logo](https://github.com/WhatIfAditya7/WhatIfAditya7/blob/main/1630066225402.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A curious and passionate Data Engineer and Analyst.</h3>
 
