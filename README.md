@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Data Science projects primarily focused on Machine Learning topics.**
 
-- 🌱 I’m currently learning **Data Bricks**
+- 🌱 I’m currently learning **Data Bricks.**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects.**
 
-- 💬 Ask me about **Data Engineering and Analysis**
+- 💬 Ask me about **Data Engineering and Analysis.**
 
 - 📫 How to reach me **adityaasharma7007@gmail.com**
 
